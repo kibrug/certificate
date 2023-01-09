@@ -1,0 +1,100 @@
+TRADING ECONOMICS - CAREERS DEVELOPER
+Inbox
+
+support@tradingeconomics.com via amazonses.com 
+Attachments
+10:21 AM (12 minutes ago)
+to me, careers
+
+Hi -
+
+Thanks for your interest in Trading Economics.
+To continue with the selection process we ask you to do a small task to prove your skills.
+You can do so in any programming language and you can pick the topic.
+The steps are as follows:
+1 - Signup for an account at developer.tradingeconomics.com. There is no cost associated with joining TE and we promise not to share your your details with anyone.
+2 - Then please join Github.com if you haven't. Head to https://github.com/tradingeconomics/tradingeconomics and do a fork followed by a pull of the repository to your PC/Mac.
+3 - Go to docs.tradingeconomics.com and check what endpoints we expose.
+4 - Use our search and find out what we have that you might find interesting:
+4.1 - use https://brains.tradingeconomics.com/v2/search/wb,fred,comtrade?q=nigeria&pp=50&p=0&_=1557934352427&stance=2.
+4.2 - Modify the 'q' query string to search whatever you see fit. And consider that our free developer accounts only have access to some databases.
+5 - Implement a small script, app or website using an endpoint available in the docs and a time series you found in the search. Some examples of apps can be:
+5.1 - A website that compares two countries or two indicators.
+5.2 - Plotting charts after choosing a country - indicator pair.
+5.3 - Build a web page with a table that displays information.
+5.4 - Anything you like.
+6 - Submit the code to the GitHub fork you did above.
+7 - Send the GitHub link to our email at careers@tradingeconomics.com.
+There is no time limit but we hope to hear from you soon!
+
+Best regards,
+Trading Economics Team
+
+
+
+
+
+I have always been passionate about web development, which led me to pursue a Bachelor of Software Engineering degree. I am constantly seeking out new technologies and staying up-to-date on trends in the industry. I would be so thrilled to join the team as a Web Developer. Thank you for taking the time to review my qualifications. I look forward to sharing more about my skills and experiences. Feel free to contact me at +251 936231200 or kibrug474@gmail.com.
+
+First Name: Kibru
+Last Name: Geburemadihin
+Country: Ethiopia
+Email: kibrug474@gmail.com
+Phone: 0936231200
+Subject: CAREERS DEVELOPER
+IP: 196.191.116.129
+
+
+-----------------------------------
+
+
+Kindest Regards,
+
+
+TRADING ECONOMICS
+support@tradingeconomics.com
++1 708-669-0606
+
+
+ One attachment
+  •  Scanned by Gmail
+
+support@tradingeconomics.com via amazonses.com 
+Attachments
+10:27 AM (6 minutes ago)
+to me, careers
+
+Hi -
+
+Thanks for your interest in Trading Economics.
+To continue with the selection process we ask you to do a small task to prove your skills.
+You can do so in any programming language and you can pick the topic.
+The steps are as follows:
+1 - Signup for an account at developer.tradingeconomics.com. There is no cost associated with joining TE and we promise not to share your your details with anyone.
+2 - Then please join Github.com if you haven't. Head to https://github.com/tradingeconomics/tradingeconomics and do a fork followed by a pull of the repository to your PC/Mac.
+3 - Go to docs.tradingeconomics.com and check what endpoints we expose.
+4 - Use our search and find out what we have that you might find interesting:
+4.1 - use https://brains.tradingeconomics.com/v2/search/wb,fred,comtrade?q=nigeria&pp=50&p=0&_=1557934352427&stance=2.
+4.2 - Modify the 'q' query string to search whatever you see fit. And consider that our free developer accounts only have access to some databases.
+5 - Implement a small script, app or website using an endpoint available in the docs and a time series you found in the search. Some examples of apps can be:
+5.1 - A website that compares two countries or two indicators.
+5.2 - Plotting charts after choosing a country - indicator pair.
+5.3 - Build a web page with a table that displays information.
+5.4 - Anything you like.
+6 - Submit the code to the GitHub fork you did above.
+7 - Send the GitHub link to our email at careers@tradingeconomics.com.
+There is no time limit but we hope to hear from you soon!
+
+Best regards,
+Trading Economics Team
+
+
+
+
+
+I have always been passionate about web development, which led me to pursue a Bachelor of Software Engineering degree. I am constantly seeking out new technologies and staying up-to-date on trends in the industry. I would be so thrilled to join the team as a Web Developer. Thank you for taking the time to review my qualifications. I look forward to sharing more about my skills and experiences. Feel free to contact me at +251 936231200 or kibrug474@gmail.com.
+
+First Name: kibru
+Last Name: geburemadihin
+Country: Ethiopia
+Email: kibrug474@gmail.com
